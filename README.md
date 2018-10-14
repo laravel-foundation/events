@@ -1,6 +1,6 @@
 ## Laravel Foundation Events Component
 
-This is an extraction of [https://github.com/laravel/framework/tree/v5.7.3/src/Illuminate/Foundation/Events/](https://github.com/laravel/framework/tree/v5.7.3/src/Illuminate/Foundation/Events/)
+This is an extraction of [https://github.com/laravel/framework/tree/v5.7.4/src/Illuminate/Foundation/Events/](https://github.com/laravel/framework/tree/v5.7.4/src/Illuminate/Foundation/Events/)
 
 
 ### Issues
